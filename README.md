@@ -25,3 +25,17 @@ $ pip install -r requirements.txt
 ```
 $ python main.py
 ```
+
+> 3. URL 입력
+
+```
+$ > https://www.youtube.com/watch?v=xYvO_mYfOfk&list=TLPQMjgwMTIwMjOiyUhRwbDIhw&index=10
+```
+
+> 4. 파일 확인
+
+```
+$ > ls -lh mypytube
+
+그때 그 아인 (Someday The Boy).mp4
+```
